@@ -1,5 +1,5 @@
 ---
-title: "Posts by Tag"
+title: "Working Papers by Tag"
 permalink: /tags/
 layout: tags
 author_profile: true
