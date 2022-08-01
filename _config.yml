@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Society for Economics Research in India (SERI)"
   avatar : "/assets/images/seri1.png"
   bio    : "SERI promotes research collaboration, intellectual exchange and critique among economists in India."
   links:
