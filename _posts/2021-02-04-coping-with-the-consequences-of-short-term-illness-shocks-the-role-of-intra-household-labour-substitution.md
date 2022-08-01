@@ -1,5 +1,5 @@
 ---
-title: "Competitive Disclosure of Information to a Rationally Inattentive Consumer"
+title: "Coping with the Consequences of Short-Term Illness Shocks: The Role of Intra-Household Labour Substitution"
 date: 2021-02-24
 permalink: /:year/:month/:title/
 categories:
@@ -14,8 +14,6 @@ tags:
 - D82
 - D83
 ---
-
-==========================================================================
 
 Authors: Abhishek Dureja, Digvijay S. Neg
 
