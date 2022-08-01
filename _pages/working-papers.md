@@ -1,6 +1,6 @@
 ---
 permalink: /working-papers/
-title: working-papers
+title: SERI Working Papers
 layout: categories
 ---
 
