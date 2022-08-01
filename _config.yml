@@ -59,9 +59,9 @@ author:
   avatar : "/assets/images/seri1.png"
   bio    : "SERI promotes research collaboration, intellectual exchange and critique among economists in India."
   links:
-    - label: "Website"
-       icon: "fas fa-fw fa-link"
-       url: "https://seri.network"
+    #- label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://seri.network"
     #- label: "Mailing List"
     #  icon: "fal fa-fw fa-at"
     #  url: "https://groups.google.com/g/society-for-economics-research-in-india"
