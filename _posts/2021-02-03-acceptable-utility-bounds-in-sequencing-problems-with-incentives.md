@@ -1,21 +1,19 @@
 ---
 title: "Acceptable Utility Bounds in Sequencing Problems with Incentives"
 date: 2021-02-03
-#last_modified_at: 2016-03-09T16:20:02-05:00
 permalink: /:year/:month/:title/
 categories:
-  - Microeconomics
+- Microeconomics
 tags:
-- acceptable utility bounds
-- budget balance
+- Acceptable utility bounds
+- Budget balance
+- Feasibility
+- Outcome efficiency
+- Sequencing problems
 - C72
 - D63
 - D71
 - D82
-- feasibility
-- outcome efficiency
-- sequencing problems
-
 ---
 
 Authors: Sreoshi Banerjee, Parikshit De, Manipushpak Mitra  

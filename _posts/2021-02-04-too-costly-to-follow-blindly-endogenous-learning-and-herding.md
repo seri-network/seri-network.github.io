@@ -3,14 +3,14 @@ title: "Too Costly To Follow Blindly: Endogenous Learning and Herding"
 date: 2021-02-04
 permalink: /:year/:month/:title/
 categories:
-  - Microeconomics
+- Microeconomics
 tags:
+- Herding
+- Rational inattention
+- Social learning
 - D82
 - D83
 - D89
-- herding
-- rational inattention
-- social learning
 ---
 
 Authors: Srijita Ghosh

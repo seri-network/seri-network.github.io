@@ -1,19 +1,19 @@
 ---
 title: "Preferences or Expectations Understanding the Gender Gap in Major Choice"
-date: 2021-02-04
+date: 2021-02-03
 permalink: /:year/:month/:title/
 categories:
-  - Health, Education, and Welfare
+- Health, Education, and Welfare
 tags:
+- Education and gender
+- Higher education
+- Major choice
+- Returns to education
 - D84
-- education and gender
-- higher education
 - I23
 - I24
 - I26
 - J24
-- major choice
-- returns to education
 ---
 
 Authors: Aparajita Dasgupta, Anisha Sharma
