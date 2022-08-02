@@ -3,6 +3,12 @@ permalink: /events/
 title: "Events"
 ---
 
+SERI organizes both general-interest workshops and those focusing on special topics for the benefit of the economics research community in India:
+* Annual Workshop for Economics Faculty and Researchers
+* SERI-D Workshop for PhD Students
+* Special Topics Workshops
+* Webinar in Applied Micro
+
 ## Annual workshops
 
 SERI's annual workshop is a platform for faculty in India to present and get feedback on their research, with the aim of preparing their papers for submission to leading economic journals. The workshop is not restricted by field and features both theoretical and empirical work. 
