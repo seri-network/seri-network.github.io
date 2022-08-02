@@ -22,6 +22,12 @@ minimal_mistakes_skin: default
 search: true
 google_site_verification: G-XK9TG9LRT3
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-XK9TG9LRT3"
+    anonymize_ip: false # default
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -72,9 +78,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/seri-network"
-    #- label: "Newsletter"
-    #  icon: "fal fa-fw fa-newspaper"
-    #  url: "https://seri.substack.com/"
+    - label: "Newsletter"
+      icon: "fab fa-fw fa-newspaper-o"
+      url: "https://seri.substack.com/"
 
 footer:
   links:
