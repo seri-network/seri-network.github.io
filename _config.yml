@@ -20,6 +20,7 @@ twitter_username: SERI_Network
 github_username: seri-network
 minimal_mistakes_skin: default
 search: true
+google_site_verification: G-XK9TG9LRT3
 
 # Build settings
 markdown: kramdown
