@@ -29,7 +29,7 @@ feature_row:
     alt: "samvaad"
     title: "Webinars"
     excerpt: "Monthly seminar in applied microeconomics"
-    url: "www.samvaad.info"
+    url: "/samvaad/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
