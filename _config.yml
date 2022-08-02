@@ -23,7 +23,7 @@ search: true
 google_site_verification: G-XK9TG9LRT3
 
 analytics:
-  provider: "google-gtag"
+  provider: "google"
   google:
     tracking_id: "G-XK9TG9LRT3"
     anonymize_ip: false # default
