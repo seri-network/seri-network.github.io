@@ -79,7 +79,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/seri-network"
     - label: "Newsletter"
-      icon: "fab fa-fw fa-newspaper-o"
+      icon: "fa fa-fw fa-newspaper"
       url: "https://seri.substack.com/"
 
 footer:
