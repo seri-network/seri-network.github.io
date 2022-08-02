@@ -63,7 +63,7 @@ author:
     #   icon: "fas fa-fw fa-link"
     #   url: "https://seri.network"
     - label: "Mailing List"
-      icon: "fal fa-fw fa-at"
+      icon: "fas fa-fw fa-envelope-square"
       url: "https://groups.google.com/g/society-for-economics-research-in-india"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
