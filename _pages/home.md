@@ -1,0 +1,38 @@
+---
+layout: splash
+permalink: "/"
+hidden: true
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/seri_banner.png
+  #actions:
+  #  - label: "<i class='fas fa-download'></i> Install now"
+  #    url: "/docs/quick-start-guide/"
+excerpt: >
+  The Society for Economics Research in India promotes research collaboration, intellectual exchange and critique among economists in India.
+feature_row:
+  - image_path: /assets/images/seri2022isb_600x400.png
+    alt: "workshop"
+    title: "Workshops"
+    excerpt: "Annual workshops for faculty and students"
+    url: "/events/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/papers_600x400.png
+    alt: "papers"
+    title: "Working Papers"
+    excerpt: "Latest research from SERI members"
+    url: "/working-papers/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"
+  - image_path: /assets/images/samvaad_600x400.png
+    alt: "samvaad"
+    title: "Webinars"
+    excerpt: "Monthly seminar in applied microeconomics"
+    url: "www.samvaad.info"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
+---
+
+{% include feature_row %}
+
