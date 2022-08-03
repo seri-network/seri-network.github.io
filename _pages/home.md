@@ -5,11 +5,11 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/seri_banner.png
-  #actions:
-  #  - label: "<i class='fas fa-download'></i> Install now"
-  #    url: "/docs/quick-start-guide/"
+  actions:
+    - label: "<i class='fas fa-envelope-square'></i> Subscribe to the mailing list"
+      url: "/mailing-list/"
 excerpt: >
-  The Society for Economics Research in India promotes research collaboration, intellectual exchange and critique among economists in India.
+  The Society for Economics Research in India (SERI) promotes research collaboration, intellectual exchange and critique among economists in India. 
 feature_row:
   - image_path: /assets/images/seri2022isb_600x400.png
     alt: "workshop"
