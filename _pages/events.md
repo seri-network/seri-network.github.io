@@ -26,11 +26,12 @@ SERI's annual workshop is a platform for faculty in India to present and get fee
 
 The SERI-D workshop is geared towards advanced graduate students who are close to completing their PhD degree, again with the aim to provide detailed feedback that will enable students to submit their work for publication in peer-reviewed journals.  
 
-* [First workshop](/conferences/seri-d-2021.pdf): December 10-12, 2022 (online)  
+* [Second workshop](#): December 2022. Call for papers: TBA.
+* [First workshop](/conferences/seri-d-2021.pdf): December 10-12, 2021 (online)
 
 ## Special Topics Workshops
 
-SERI also organizes specialized workshops in narrow areas of interest, which are meant to complement its general-interest annual SERI and SERI-D workshops.  
+SERI also organizes specialized workshops in narrow areas of interest, which are meant to complement its general-interest annual SERI and SERI-D workshops.   
 
 * [COVID-19 and the Indian Economy](/conferences/covid-2020.pdf)  
 
