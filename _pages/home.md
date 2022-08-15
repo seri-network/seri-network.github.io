@@ -8,6 +8,8 @@ header:
   actions:
     - label: "<i class='fas fa-envelope-square'></i> Subscribe to the mailing list"
       url: "/mailing-list/"
+    - label: "<i class='fas fa-bullhorn'></i> Call for papers for SERI-D workshop"
+      url: "/events/#seri-d-workshop"
 excerpt: >
   The Society for Economics Research in India (SERI) promotes research collaboration, intellectual exchange and critique among economists in India. 
 feature_row:
