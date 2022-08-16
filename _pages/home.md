@@ -6,9 +6,9 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/seri_banner.png
   actions:
-    - label: "<i class='fas fa-envelope-square'></i> Subscribe to the mailing list"
+    - label: "<i class='fas fa-envelope-square'></i> Subscribe to the Mailing List"
       url: "/mailing-list/"
-    - label: "<i class='fas fa-bullhorn'></i> Call for Papers — SERI-D workshop 2022"
+    - label: "<i class='fas fa-bullhorn'></i> Call for Papers - SERI-D Conference 2022"
       url: "/conferences/seri-d-2022-call-for-papers.pdf"
 excerpt: >
   The Society for Economics Research in India (SERI) promotes research collaboration, intellectual exchange and critique among economists in India. 
