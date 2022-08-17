@@ -10,7 +10,7 @@ A group of about a dozen faculty drawn from different specializations and depart
 * [Anirban Kar](http://econdse.org/anirban/), Delhi School of Economics  
 * [Farzana Afridi](https://www.isid.ac.in/~fafridi/), Indian Statistical Institute, Delhi  
 * [Manaswini Bhalla](http://manaswinibhalla.weebly.com/), Indian Institute of Management, Bangalore  
-* [Mausumi Das](http://iegindia.in/staffmembers/faculty/detail/3801/3), Institute of Economic Growth  
+* [Mausumi Das](http://econdse.org/mausumi/), Delhi School of Economics   
 * [Parikshit Ghosh](http://econdse.org/parikshit/), Delhi School of Economics  
 * [Rajeswari Sengupta](http://www.igidr.ac.in/staff/sengupta-rajeswari/), Indira Gandhi Institute of Development Research  
 * [Rashmi Barua](https://sites.google.com/site/rbaruabhowmik/), Jawaharlal Nehru University  
@@ -18,10 +18,10 @@ A group of about a dozen faculty drawn from different specializations and depart
 * [Sabyasachi Das](http://dassabyasachi.wordpress.com/), Ashoka University  
 * [Shabana Mitra](https://economics.snu.edu.in/people/faculty/shabana-mitra), Shiv Nadar University  
 * [Sourav Bhattacharya](https://www.sites.google.com/site/souravgati/), Indian Institute of Management, Calcutta  
-* [Sudha Narayanan](http://www.igidr.ac.in/index.php?option=com_content&view=article&id=210:sudhanarayanan&catid=13), Indira Gandhi Institute of Development Research  
+* [Sudha Narayanan](https://www.ifpri.org/profile/sudha-narayanan), International Food Policy Research Institute
 * [Sujoy Chakravarty](http://www.jnu.ac.in/FacultyStaff/ShowProfile.asp?SendUserName=sujoy), Jawaharlal Nehru University  
 * [Tanika Chakraborty](https://www.iimcal.ac.in/users/tanika), Indian Institute of Management, Calcutta  
-* [Tarun Jain](http://www.isb.edu/faculty/tarunjain/), Indian Institute of Management, Ahmedabad  
+* [Tarun Jain](https://sites.google.com/virginia.edu/tarunjain/home), Indian Institute of Management, Ahmedabad  
 * [Tridip Ray](http://www.isid.ac.in/~tridip/), Indian Statistical Institute, Delhi  
 * [Vidhya Soundararajan](https://www.hss.iitb.ac.in/en/faculty-profile/vidhya-soundararajan), Indian Institute of Technology, Bombay  
 
