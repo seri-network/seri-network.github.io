@@ -3,11 +3,18 @@ permalink: /events/
 title: "Events"
 ---
 
-SERI organizes both general-interest workshops and those focusing on special topics for the benefit of the economics research community in India:
+<!-- SERI organized a job market for PhD economists and several workshops (both general-interest workshops and those focusing on special topics) for the benefit of the economics research community in India.--> 
+
+SERI organizes several events for the benefit of the economics research community in India:
+* Indian Job Market for Economists
 * Annual Workshop for Economics Faculty and Researchers
 * SERI-D Workshop for PhD Students
 * Special Topics Workshops
 * Webinar in Applied Micro
+
+## Indian Job Market 
+
+The [Indian Job Market for Economists (IJME)](/ijme) is an initiative to match PhD economists with prospective employers: universities in India, research institutions, think tanks and the private sector. [Learn more.](/ijme)
 
 ## Annual workshops
 
