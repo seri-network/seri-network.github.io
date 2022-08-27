@@ -35,7 +35,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"  
 feature_row4:    
-  - image_path: /assets/images/ijme.png
+  - image_path: /assets/images/ijme_600x600.png
     alt: "IJME"
     title: "Indian Job Market"
     excerpt: "Matching economists with employers"
