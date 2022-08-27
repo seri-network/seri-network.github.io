@@ -34,6 +34,13 @@ feature_row:
     url: "/samvaad/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
+  - image_path: /assets/images/ijme_600x400.png
+    alt: "IJME"
+    title: "IJME"
+    excerpt: "Indian Job Market for Economists"
+    url: "/ijme/"
+    btn_class: "btn--primary"
+    btn_label: "Coming soon"      
 ---
 
 {% include feature_row %}
