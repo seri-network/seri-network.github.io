@@ -9,6 +9,8 @@ main:
     url: "/working-papers/"
   - title: "Events"
     url: "/events/"
+  - title: "IJME"
+    url: /ijme/
   #- title: "Categories"
   #  url: /categories/
   #- title: "Tags"
