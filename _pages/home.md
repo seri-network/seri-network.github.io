@@ -37,8 +37,8 @@ feature_row:
 feature_row4:    
   - image_path: /assets/images/ijme_600x400.png
     alt: "IJME"
-    title: "IJME"
-    excerpt: "Indian Job Market for Economists"
+    title: "Indian Job Market"
+    excerpt: "Matching economists with employers"
     url: "/ijme/"
     btn_class: "btn--primary"
     btn_label: "Coming soon"      
