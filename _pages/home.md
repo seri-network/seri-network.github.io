@@ -33,7 +33,8 @@ feature_row:
     excerpt: "Monthly seminar in applied microeconomics"
     url: "/samvaad/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "Learn more"  
+feature_row4:    
   - image_path: /assets/images/ijme_600x400.png
     alt: "IJME"
     title: "IJME"
@@ -45,3 +46,4 @@ feature_row:
 
 {% include feature_row %}
 
+{% include feature_row id="feature_row4" type="center" %}
