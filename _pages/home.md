@@ -16,7 +16,7 @@ feature_row:
   - image_path: /assets/images/seri2022isb_600x400.png
     alt: "conferences"
     title: "Conferences"
-    excerpt: "Annual workshops for faculty & students"
+    excerpt: "Workshops for faculty & students"
     url: "/conferences/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
