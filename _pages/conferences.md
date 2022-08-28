@@ -14,7 +14,7 @@ gallery:
   - image_path: /assets/images/workshop2017/seri2017_73.jpg
     alt: "SERI 2017"
     title: "SERI 2017"
-  - image_path: /assets/images/workshop2018/seri2018_4j0a0195.jpg
+  - image_path: /assets/images/workshop2018/seri2022_wa0007.jpg
     alt: "SERI 2018"
     title: "SERI 2018"
   - image_path: /assets/images/workshop2018/seri2018_4j0a0202.jpg
