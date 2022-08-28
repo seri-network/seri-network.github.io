@@ -1,6 +1,34 @@
 ---
 permalink: /conferences/
 title: "Conferences"
+gallery:
+  - image_path: /workshop2015/seri2015_9010.jpg
+    alt: "SERI 2015"
+    title: "SERI 2015"
+  - image_path: /workshop2015/seri2015_9048.jpg
+    alt: "SERI 2015"
+    title: "SERI 2015"
+  - image_path: /workshop2017/seri2017_7.jpg
+    alt: "SERI 2017"
+    title: "SERI 2017"
+  - image_path: /workshop2017/seri2017_73.jpg
+    alt: "SERI 2017"
+    title: "SERI 2017"
+  - image_path: /workshop2018/seri2018_4j0a0195.jpg
+    alt: "SERI 2018"
+    title: "SERI 2018"
+  - image_path: /workshop2018/seri2018_4j0a0202.jpg
+    alt: "SERI 2018"
+    title: ""
+  - image_path: /workshop2022/Researchers network with new and past colleagues.jpg
+    alt: "SERI 2022"
+    title: "SERI 2022"
+  - image_path: /workshop2022/The involved audience at the SERI workshop.jpg
+    alt: "SERI 2022"
+    title: "SERI 2022"
+  - image_path: /workshop2022/Economics researchers present their papers at the two-day SERI, 2022 workshop .jpg
+    alt: "SERI 2022"
+    title: "SERI 2022"
 ---
 
 SERI organizes both general-interest workshops and those focusing on special topics for the benefit of the economics research community in India.
@@ -30,3 +58,6 @@ The SERI-D workshop is geared towards advanced graduate students who are close t
 SERI also organizes specialized workshops in narrow areas of interest, which are meant to complement its general-interest annual SERI and SERI-D workshops.   
 
 * [COVID-19 and the Indian Economy](/conferences/covid-2020.pdf)  
+
+
+{% include gallery caption="Annual workshop, 2015-2022" %}
