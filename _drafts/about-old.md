@@ -1,0 +1,10 @@
+---
+permalink: /about/
+title: "About"
+---
+
+SERI was set up in 2015 to create a community of scholars affiliated with Indian institutions who are engaged in cutting-edge research in economics. There are currently a number of research-oriented economics and business departments in the country. However, there is no strong network connecting them. Given the small size of many departments and the increasing specialization within the discipline, researchers often find themselves relatively isolated and deprived of intellectual exchange that is so vital to academic life. While some interaction happens through personal contact, seminars and conferences, there is clearly a need to exploit our synergies better. SERI’s exclusive mission is to pursue this goal. It will promote research collaboration, information sharing and peer critique among scholars based in India.
+
+The main platform for pursuing this goal is an [annual workshop](/events/#annual-workshops) where members and other invited speakers can present their ongoing research to each other and receive feedback. The workshop is conceived to allow greater engagement than is possible under the usual conference format. A small number of papers are discussed and longer time slots allow detailed exposition and discussion. SERI also organizes a [workshop for Ph.D. students](/events/#seri-d-workshop) and future plans include more specialized workshops and collaboration with funders interested in disseminating research results in narrower fields.
+
+Starting 2022, SERI will also be organzing an [Indian Job Market](/ijme) in collaboration with [National Council of Applied Economic Research](https://www.ncaer.org/) and the [Econometric Society](https://www.econometricsociety.org/) to facilitate matching of PhD economists and prospective employers.
