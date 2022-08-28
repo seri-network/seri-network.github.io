@@ -12,14 +12,21 @@ header:
       url: "/conferences/seri-d-2022-call-for-papers.pdf"
 excerpt: >
   The Society for Economics Research in India (SERI) promotes research collaboration, intellectual exchange and critique among economists in India. 
-feature_row:
+gallery:
   - image_path: /assets/images/seri2022isb_600x400.png
-    alt: "workshop"
-    title: "Workshops"
+    alt: "conferences"
+    title: "Conferences"
     excerpt: "Annual workshops for faculty & students"
     url: "/conferences/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
+  - image_path: /assets/images/ijme_600x400.png
+    alt: "ijme"
+    title: "Job Market"
+    excerpt: "Matching economists with employers"
+    url: "/ijme/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"      
   - image_path: /assets/images/papers_600x400.png
     alt: "papers"
     title: "Working Papers"
@@ -34,16 +41,6 @@ feature_row:
     url: "/samvaad/"
     btn_class: "btn--primary"
     btn_label: "Learn more"  
-feature_row4:    
-  - image_path: /assets/images/ijme_600x600.png
-    alt: "IJME"
-    title: "Indian Job Market"
-    excerpt: "Matching economists with employers"
-    url: "/ijme/"
-    btn_class: "btn--primary"
-    btn_label: "Coming soon"      
 ---
 
-{% include feature_row %}
-
-{% include feature_row id="feature_row4" type="center" %}
+{% include gallery id="gallery" layout="half" %}
