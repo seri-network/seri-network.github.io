@@ -33,3 +33,5 @@ Additionally, the following scholars are advisors to SERI:
 * [Dilip Mookherjee](http://people.bu.edu/dilipm/), Boston University  
 * [Jyotsna Jalan](http://cssscal.org/jyotsna_jalan_contact.html), Centre for Studies in the Social Sciences, Kolkata  
 * [Rohini Somanathan](http://econdse.org/rohini/), Delhi School of Economics  
+
+For questions or clarifications, please contact us at <contact@seri.network>
