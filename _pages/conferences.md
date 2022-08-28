@@ -2,31 +2,31 @@
 permalink: /conferences/
 title: "Conferences"
 gallery:
-  - image_path: /workshop2015/seri2015_9010.jpg
+  - image_path: /assets/images/workshop2015/seri2015_9010.jpg
     alt: "SERI 2015"
     title: "SERI 2015"
-  - image_path: /workshop2015/seri2015_9048.jpg
+  - image_path: /assets/images/workshop2015/seri2015_9048.jpg
     alt: "SERI 2015"
     title: "SERI 2015"
-  - image_path: /workshop2017/seri2017_7.jpg
+  - image_path: /assets/images/workshop2017/seri2017_7.jpg
     alt: "SERI 2017"
     title: "SERI 2017"
-  - image_path: /workshop2017/seri2017_73.jpg
+  - image_path: /assets/images/workshop2017/seri2017_73.jpg
     alt: "SERI 2017"
     title: "SERI 2017"
-  - image_path: /workshop2018/seri2018_4j0a0195.jpg
+  - image_path: /assets/images/workshop2018/seri2018_4j0a0195.jpg
     alt: "SERI 2018"
     title: "SERI 2018"
-  - image_path: /workshop2018/seri2018_4j0a0202.jpg
+  - image_path: /assets/images/workshop2018/seri2018_4j0a0202.jpg
     alt: "SERI 2018"
     title: ""
-  - image_path: /workshop2022/Researchers network with new and past colleagues.jpg
+  - image_path: /assets/images/workshop2022/Researchers network with new and past colleagues.jpg
     alt: "SERI 2022"
     title: "SERI 2022"
-  - image_path: /workshop2022/The involved audience at the SERI workshop.jpg
+  - image_path: /assets/images/workshop2022/The involved audience at the SERI workshop.jpg
     alt: "SERI 2022"
     title: "SERI 2022"
-  - image_path: /workshop2022/Economics researchers present their papers at the two-day SERI, 2022 workshop .jpg
+  - image_path: /assets/images/workshop2022/Economics researchers present their papers at the two-day SERI, 2022 workshop .jpg
     alt: "SERI 2022"
     title: "SERI 2022"
 ---
