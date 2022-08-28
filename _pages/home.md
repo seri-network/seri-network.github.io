@@ -16,24 +16,25 @@ feature_row:
   - image_path: /assets/images/seri2022isb_600x400.png
     alt: "conferences"
     title: "Conferences"
-    excerpt: "Workshops for faculty & students"
     url: "/conferences/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/ijme_600x400.png
     alt: "ijme"
     title: "Job Market"
-    excerpt: "Matching economists with employers"
     url: "/ijme/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
   - image_path: /assets/images/papers_600x400.png
     alt: "papers"
     title: "Working Papers"
-    excerpt: "New research in economics"
     url: "/working-papers/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
 ---
+
+<!--    excerpt: "Workshops for faculty & students" -->
+<!--    excerpt: "Matching economists with employers" -->
+<!--    excerpt: "New research in economics" -->
 
 {% include feature_row %}
