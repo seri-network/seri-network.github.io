@@ -1,19 +1,29 @@
 main:
   - title: "Home"
     url: /
-
+  - title: "Conferences"
+    url: /conferences/
+  - title: "Job Market"
+    url: /ijme/
+  - title: "Working Papers"
+    url: "/working-papers/"
+  - title: "Webinars"
+    url: "/webinars/"
   - title: "About"
-    url: "/about/"
-    
-  - title: "Events"
-    url: "/events/"
-    children:
-      - title: "Conferences"
-        url: /conferences/
-      - title: "Job Market"
-        url: /ijme/
-      - title: "Webinars"
-        url: "/webinars/"
+    url: /about/
 
-   - title: "Working Papers"
-     url: "/working-papers/"
+#  - title: "About"
+#    url: "/about/"
+#
+#  - title: "Events"
+#    url: "/events/"
+#    children:
+#      - title: "Conferences"
+#        url: /conferences/
+#      - title: "Job Market"
+#        url: /ijme/
+#      - title: "Webinars"
+#        url: "/webinars/"
+#
+#   - title: "Working Papers"
+#     url: "/working-papers/"
