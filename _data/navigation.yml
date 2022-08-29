@@ -7,8 +7,10 @@ main:
     url: /conferences/
   - title: "Job Market"
     url: /ijme/
-  - title: "Working Papers"
+  - title: "Research"
     url: "/working-papers/"
+  - title: "Webinars"
+    url: "/webinars/"
   #- title: "Posts"
   #  url: /posts/
   #- title: "Events"
