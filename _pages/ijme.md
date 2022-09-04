@@ -20,10 +20,10 @@ The [Econometric Society (ES)](https://www.econometricsociety.org/), [EconJobMar
 IJME is a platform to facilitate the matching of young economists and PhD candidates to Indian universities, research institutions, government agencies, and private sector organisations. The job market for economists in India is currently fragmented and works in a decentralised fashion. IJME aims to solve coordination problems among job seekers and potential recruiters and allow for a more efficient flow of information.  
 
 IJME will start in September and conclude in December. It will operate in four stages:
-1. September 15 to October 25: Recruiters register at [EJM](https://econjobmarket.org/) and post job advertisements. EJM will serve as a central electronic repository for job-market advertisements, application materials and reference letters.  
-1. October 26 to November 25: Candidates register at [EJM](https://econjobmarket.org/) and upload their job-market ‘package’: curriculum vitae, job-market papers, etc. References can also upload their letters of recommendation on EJM.  
-1. November 26 to December 15: Recruiters review job market packages and shortlist candidates for online or in-person interviews. EJM supports interview scheduling.  
-1. December 21 to December 23: In-person interviews take place in Delhi. NCAER will provide logistical support and arrange meeting rooms for the recruiters. Interview slots will be allocated on a first-come, first-served basis.  
+1. *September 15 to October 25*: Recruiters register at [EJM](https://econjobmarket.org/) and post job advertisements. EJM will serve as a central electronic repository for job-market advertisements, application materials and reference letters.  
+1. *October 26 to November 25*: Candidates register at [EJM](https://econjobmarket.org/) and upload their job-market ‘package’: curriculum vitae, job-market papers, etc. References can also upload their letters of recommendation on EJM.  
+1. *November 26 to December 15*: Recruiters review job market packages and shortlist candidates for online or in-person interviews. EJM supports online interview scheduling.  
+1. *December 21 to December 23*: In-person interviews take place in Delhi. NCAER will provide logistical support and arrange meeting rooms for the recruiters. Interview slots will be allocated on a first-come, first-served basis.  
 
 ## Fees
 
