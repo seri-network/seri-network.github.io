@@ -19,7 +19,7 @@ The Indian Job Market for Economists (IJME) is a collaboration between the [Econ
 
 ![IJME](/assets/images/ijme_2022_overview.gif)
 
-The [Econometric Society (ES)](https://www.econometricsociety.org/), [EconJobMarket.org (EJM)](https://econjobmarket.org/), [National Council of Applied Economic Research (NCAER)](https://www.ncaer.org/) and SERI will be organising an Indian Job Market for Economists meeting on 21-23 December 2022 in NCAER, New Delhi. For details, see this brief [informational presentation](/assets/slides/ijme_2022_overview.pdf) or [video](https://www.youtube.com/watch?v=eierbhCE-Q8).
+The [Econometric Society (ES)](https://www.econometricsociety.org/), [EconJobMarket.org (EJM)](https://econjobmarket.org/), [National Council of Applied Economic Research (NCAER)](https://www.ncaer.org/) and SERI will be organising an Indian Job Market for Economists meeting on 21-23 December 2022 in NCAER, New Delhi. For details, see this brief [informational presentation](/assets/slides/ijme_2022_overview.pdf) or [list of commonly asked questions and answers about IJME](/ijme/faq). 
 
 ## How will IJME work?
 
@@ -43,4 +43,4 @@ IJME will start in September and conclude in December. It will operate in four s
 * [*National Council of Applied Economic Research*](https://www.ncaer.org/): NCAER is India’s oldest and largest independent, non-profit, economic policy research think tank.  
 * [*Society for Economics Research in India*](https://seri.network/): SERI promotes research collaboration, intellectual exchange and critique among economists in India.  
 
-More information, including [FAQs](/ijme/faq), about about IJME will be posted in mid-September. For email updates, please sign up for [SERI's mailing list](https://groups.google.com/g/society-for-economics-research-in-india/).
+More information about about IJME will be posted in mid-September. For email updates, please sign up for [SERI's mailing list](https://groups.google.com/g/society-for-economics-research-in-india/).
