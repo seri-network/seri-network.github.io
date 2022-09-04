@@ -23,7 +23,7 @@ IJME will start in September and conclude in December. It will operate in four s
 1. *September 15 to October 25*: Recruiters register at [EJM](https://econjobmarket.org/) and post job advertisements. EJM will serve as a central electronic repository for job-market advertisements, application materials and reference letters.  
 1. *October 26 to November 25*: Candidates register at [EJM](https://econjobmarket.org/) and upload their job-market ‘package’: curriculum vitae, job-market papers, etc. References can also upload their letters of recommendation on EJM.  
 1. *November 26 to December 15*: Recruiters review job market packages and shortlist candidates for online or in-person interviews. EJM supports online interview scheduling.  
-1. *December 21 to December 23*: In-person interviews take place in Delhi. NCAER will provide logistical support and arrange meeting rooms for the recruiters. Interview slots will be allocated on a first-come, first-served basis.  
+1. *December 21 to December 23*: In-person interviews take place in Delhi. NCAER will provide logistical support and arrange meeting rooms for the recruiters. Interview slots will be allocated on a first-come, first-served basis. IJME strongly recommends that online interviews are also conducted in the same 3-day window.
 
 ## Fees
 
