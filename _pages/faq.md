@@ -33,7 +33,7 @@ EJM verifies recruiters usually within one day.
 
 {::options parse_block_html="true" /}
 <details><summary markdown="span"><em>I am hiring economists at an academic/educational institution or at a non-profit organization. What are the various pricing options for posting job ads?</em></summary>
-As an academic or educational institution, you can choose between three options:  
+As an academic/educational institution or non-profit, you can choose between three options:  
 1. Minimal ad: Free.  
 1. Public ad with services: First ad free. Subsequent ad $340 ($306 if paid by credit card).  
 1. Featured ad: The first ad is $300 ($270 if paid by credit card). Subsequent ad $600 ($540 if paid by credit card).  
