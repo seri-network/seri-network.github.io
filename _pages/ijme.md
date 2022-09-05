@@ -36,11 +36,13 @@ IJME will start in September and conclude in December. It will operate in four s
 * *Candidates and letter writers*: Registration is free for all candidates. For details, please see [EJM’s information for candidates](https://econjobmarket.org/pages/candidates). Establishing a user account, and submitting and managing recommendations by letter writers is also free.  
 * *Recruiters*: Recruiters can choose between three options. All academic/educational institutions and non-profits can take advantage of the free advertisement tier (called ‘minimal ad’). The first ad is free for even for-profit organizations. Please note that minimal ads are shown to candidates who are logged into EJM. To display advertisements publicly, even when candidates are not logged into EJM, recruiters have to pay between $0 and $600 depending on the type of organization and whether this is your first time using EJM. Finally, featured advertisements that are prominently displayed on EJM’s website cost between $270 and $1200, depending on organisation type and first use. For more details about fee structure, please see [EJM’s System Overview and Fees](https://econjobmarket.org/pages/info).
 
+## Informational Webinar
+
+More information about an information session about IJME will be posted in mid-September. For email updates, please sign up for [SERI's mailing list](https://groups.google.com/g/society-for-economics-research-in-india/).
+
 ## About IJME’s Partners
 
 * [*Econometric Society*](https://www.econometricsociety.org/): ES is an international society for the advancement of economic theory in its relation to statistics and mathematics.  
 * [*EconJobMarket.org*](http://EconJobMarket.org): EJM displays advertisements for positions for economists with doctoral degrees as well as pre-doc and research assistant positions. Advertisers have the option to collect applications on the site, which offers a comprehensive system for reviewing applications. EJM is a non-profit charity.  
 * [*National Council of Applied Economic Research*](https://www.ncaer.org/): NCAER is India’s oldest and largest independent, non-profit, economic policy research think tank.  
 * [*Society for Economics Research in India*](https://seri.network/): SERI promotes research collaboration, intellectual exchange and critique among economists in India.  
-
-More information about about IJME will be posted in mid-September. For email updates, please sign up for [SERI's mailing list](https://groups.google.com/g/society-for-economics-research-in-india/).
