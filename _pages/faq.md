@@ -41,7 +41,7 @@ As an academic or educational institution, you can choose between three options:
 
 {::options parse_block_html="true" /}
 <details><summary markdown="span"><em>I am hiring economists at a for-profit organization. What are the various pricing options for posting job ads?</em></summary>
-As an academic or educational institution, you can choose between three options:  
+As a for-profit institution, you can choose between three options:  
 1. Minimal ad: The first ad is free. Subsequent ad $370 ($333 if paid by credit card).  
 1. Public ad with services: First ad free. Subsequent ad $600 ($540 if paid by credit card).  
 1. Featured ad: The first ad is $600 ($540 if paid by credit card).  Subsequent ad $1,200 ($1,080 if paid by credit card).  
