@@ -10,14 +10,6 @@ Click on ▶ to view the answers to frequently asked questions about IJME. More 
 ## FAQs about EconJobMarket.org
 
 {::options parse_block_html="true" /}
-<details><summary markdown="span">Summary Goes Here</summary>
-### Header
-* option 1
-* option 2
-* option 3
-</details>&nbsp;
-
-{::options parse_block_html="true" /}
 <details><summary markdown="span"><em>Why does IJME use EJM?</em></summary>
 EJM offers one of the best job market platforms that is tailored for hiring PhD economists. The American and European job markets have also been using EJM as a centralized portal. EJM is easy to use and ads posted on the website have the following attractive features:  
 1. No limit on the length of advertisement text.  
