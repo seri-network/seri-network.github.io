@@ -1,5 +1,5 @@
 ---
-permalink: /ijme/faq
+permalink: /ijme/faq/
 title: "IJME: FAQs"
 ---
 
