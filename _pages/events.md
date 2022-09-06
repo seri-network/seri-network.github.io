@@ -17,11 +17,11 @@ SERI organizes several events for the benefit of the economics research communit
 
 ## Conferences
 
-SERI conducts two annual workshops, one for faculty and another for PhD students. The conferences are aimed at providing feedback to scholars in India with the end goal of preparing their papers for submission to leading economic journals. [Learn more.](/conferences)  
+SERI conducts two annual workshops, one for faculty and another for PhD students. The conferences are aimed at providing feedback to scholars in India with the end goal of preparing their papers for submission to leading economic journals. [Learn more.](/conferences/){:target="_blank"}  
 
 ## Indian Job Market 
 
-The [Indian Job Market for Economists (IJME)](/ijme) is an initiative to match PhD economists with prospective employers: universities in India, research institutions, think tanks and the private sector. [Learn more.](/ijme)  
+The [Indian Job Market for Economists (IJME)](/ijme/){:target="_blank"} is an initiative to match PhD economists with prospective employers: universities in India, research institutions, think tanks and the private sector. [Learn more.](/ijme/){:target="_blank"}  
 
 <!-- 
 ## Annual workshops

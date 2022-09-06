@@ -22,7 +22,7 @@ The Indian Job Market for Economists (IJME) is a collaboration between the [Econ
 The [Econometric Society (ES)](https://www.econometricsociety.org/){:target="_blank"}, [EconJobMarket.org (EJM)](https://econjobmarket.org/){:target="_blank"}, [National Council of Applied Economic Research (NCAER)](https://www.ncaer.org/){:target="_blank"} and SERI will be organising an Indian Job Market for Economists meeting on 21-23 December 2022 in NCAER, New Delhi. For details, please see:
 * [An informational presentation](/assets/slides/ijme_2022_overview.pdf){:target="_blank"}  
 * [Answers to frequently asked questions](/ijme/faq/){:target="_blank"}  
-* [Job listings](/ijme/listings/){:target="_blank"}
+* [Job listings](/ijme/listings/){:target="_blank"}  
 
 ## How will IJME work?
 
