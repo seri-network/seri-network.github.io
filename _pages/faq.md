@@ -13,7 +13,7 @@ Click on ▶ to view the answers to frequently asked questions about IJME. More 
 <details><summary markdown="span"><em>I am a recruiter and I want to schedule in-person interviews with candidates in Delhi. How do I do that?</em></summary>
 If you want to interview candidates in-person at NCAER, Delhi, you will have to follow a two-step procedure:
 1. When you register at EJM as a recruiter, be sure to choose the option of interviewing in-person in Delhi. 
-1. After you shortlist the candidates for interview, send an email to jobmarket@ncaer.org specifying the required number of slots and your preferred dates. Slots will be allocated on a first-come, first-served basis and you will be notified about the same.
+1. After you shortlist the candidates for interview, send an email to jobmarket@ncaer.org specifying the your preferred dates and hours. Blocks of time will be allocated on a first-come, first-served basis and you will be notified about the same.
 </details>&nbsp;
 
 <details><summary markdown="span"><em>I am a recruiter and I have formal procedure for recruitment at my organization, which requires the candidates to apply directly to us. Can we still use IJME?</em></summary>
