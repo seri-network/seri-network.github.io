@@ -20,8 +20,9 @@ The Indian Job Market for Economists (IJME) is a collaboration between the [Econ
 ![IJME](/assets/images/ijme_2022_overview.gif)
 
 The [Econometric Society (ES)](https://www.econometricsociety.org/), [EconJobMarket.org (EJM)](https://econjobmarket.org/), [National Council of Applied Economic Research (NCAER)](https://www.ncaer.org/) and SERI will be organising an Indian Job Market for Economists meeting on 21-23 December 2022 in NCAER, New Delhi. For details, please see:
-* A brief [informational presentation](/assets/slides/ijme_2022_overview.pdf)  
-* List of [commonly asked questions and answers about IJME](/ijme/faq)  
+* [An informational presentation](/assets/slides/ijme_2022_overview.pdf)  
+* [Answers to frequently asked questions](/ijme/faq/)  
+* [Job listings](/ijme/listings/)
 
 ## How will IJME work?
 
@@ -36,7 +37,10 @@ IJME will start in September and conclude in December. It will operate in four s
 ## Fees
 
 * *Candidates and letter writers*: Registration is free for all candidates. For details, please see [EJM’s information for candidates](https://econjobmarket.org/pages/candidates). Establishing a user account, and submitting and managing recommendations by letter writers is also free.  
-* *Recruiters*: Recruiters can choose between three options. All academic/educational institutions and non-profits can take advantage of the free advertisement tier (called ‘minimal ad’). The first ad is free for even for-profit organizations. Please note that minimal ads are shown to candidates who are logged into EJM. To display advertisements publicly, even when candidates are not logged into EJM, recruiters have to pay between $0 and $600 depending on the type of organization and whether this is your first time using EJM. Finally, featured advertisements that are prominently displayed on EJM’s website cost between $270 and $1200, depending on organisation type and first use. For more details about fee structure, please see [EJM’s System Overview and Fees](https://econjobmarket.org/pages/info).
+* *Recruiters*: Recruiters can choose between three options. 
+    * All academic/educational institutions and non-profits can take advantage of the free advertisement tier (called ‘minimal ad’). The first ad is free for even for-profit organizations. Please note that minimal ads are shown to candidates who are logged into EJM. 
+    * To display advertisements publicly, even when candidates are not logged into EJM, recruiters have to pay between $0 and $600 depending on the type of organization and whether this is your first time using EJM. 
+    * Finally, featured advertisements that are prominently displayed on EJM’s website cost between $270 and $1200, depending on organisation type and first use. For more details about fee structure, please see [EJM’s System Overview and Fees](https://econjobmarket.org/pages/info).
 
 ## Informational Webinar
 
