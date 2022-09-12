@@ -12,7 +12,7 @@ Click on ▶ to view the answers to frequently asked questions about IJME. More 
 {::options parse_block_html="true" /}
 <details><summary markdown="span"><em>I am a recruiter and I want to schedule in-person interviews with candidates in Delhi. How do I do that?</em></summary>
 If you want to interview candidates in-person at NCAER, Delhi, you will have to follow a two-step procedure:
-1. When you register at EJM as a recruiter, be sure to choose the option of interviewing in-person in Delhi. 
+1. When you register at EJM as a recruiter, be sure to choose the option of interviewing at the Indian Job market for Economists, Delhi, India 21-23 Dec 2022.
 1. After you shortlist the candidates for interview, send an email to [jobmarket@ncaer.org](mailto:jobmarket@ncaer.org) specifying your preferred dates and hours (e.g., Dec 21 from 10 AM to 12 noon and Dec 22 from 1 PM to 3 PM). Blocks of time will be allocated on a first-come, first-served basis and you will be notified about the same.
 </details>&nbsp;
 
