@@ -5,7 +5,7 @@ title: "IJME: FAQs"
 
 ![IJME](/assets/images/ijme_2022_info_750x750.png)
 
-Click on ▶ to view the answers to frequently asked questions about IJME. More details will be posted in mid-September. 
+Click on ▶ to view the answers to frequently asked questions about IJME. 
 
 ## FAQs for Recruiters
 
