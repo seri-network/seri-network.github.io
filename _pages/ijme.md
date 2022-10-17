@@ -44,7 +44,15 @@ IJME will start in September and conclude in December. It will operate in four s
 
 ## Informational Webinar
 
-More information about an information session about IJME will be posted in mid-September. For email updates, please sign up for [SERI's mailing list](https://groups.google.com/g/society-for-economics-research-in-india/){:target="_blank"}.
+SERI and EJM are organizing an online information session to clarify any doubts or questions that either representatives of recruiting institutions or job market candidates have about the job market. The info session will be held on Friday, October 28, 2022, from 8 PM IST to 10:10 PM IST. Please sign up at this [google form](https://forms.gle/26wcuScHKmpmE3Ws8) to receive the Zoom link. A brief outline of the program is as follows:
+
+* 8-8:30 PM IST - Presentation by Martin J. Osborne (University of Toronto), Director and Chief Information Officer of EJM - address to recruiters
+* 8:30-9 PM IST - Presentation by Joel Watson (UC San Diego), Director and Chief Executive Officer of EJM - address to job market candidates
+* 9-9:30 PM IST - Open Questions and Answers
+* 9:30-9:50 PM IST - Discussion with the Head of the Economics Department at IIT Kanpur (Vimal Kumar) and Ashoka University (Ratul Lahkar) who have participated in the US Econ Job Market as recruiters
+* 9:30-10:10 PM IST - Discussion with 2 recent graduates in Economics - Garima Agarwal (postdoc at Gottingen University) and Sugat Chaturvedi (postdoc at Sussex University)
+
+<!--More information about an information session about IJME will be posted in mid-September. For email updates, please sign up for [SERI's mailing list](https://groups.google.com/g/society-for-economics-research-in-india/){:target="_blank"}.-->
 
 ## About IJME’s Partners
 
