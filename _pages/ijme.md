@@ -50,7 +50,7 @@ SERI and EJM are organizing an online information session to clarify any doubts 
 * 8:30-9 PM IST - Presentation by Joel Watson (UC San Diego), Director and Chief Executive Officer of EJM - address to job market candidates
 * 9-9:30 PM IST - Open Questions and Answers
 * 9:30-9:50 PM IST - Discussion with the Head of the Economics Department at IIT Kanpur (Vimal Kumar) and Ashoka University (Ratul Lahkar) who have participated in the US Econ Job Market as recruiters
-* 9:30-10:10 PM IST - Discussion with 2 recent graduates in Economics - Garima Agarwal (postdoc at Gottingen University) and Sugat Chaturvedi (postdoc at Sussex University)
+* 9:50-10:10 PM IST - Discussion with 2 recent graduates in Economics - Garima Agarwal (postdoc at Gottingen University) and Sugat Chaturvedi (postdoc at Sussex University)
 
 <!--More information about an information session about IJME will be posted in mid-September. For email updates, please sign up for [SERI's mailing list](https://groups.google.com/g/society-for-economics-research-in-india/){:target="_blank"}.-->
 
