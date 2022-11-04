@@ -21,7 +21,7 @@ The Indian Job Market for Economists (IJME) is a collaboration between the [Econ
 
 The [Econometric Society (ES)](https://www.econometricsociety.org/){:target="_blank"}, [EconJobMarket.org (EJM)](https://econjobmarket.org/){:target="_blank"}, [National Council of Applied Economic Research (NCAER)](https://www.ncaer.org/){:target="_blank"} and SERI will be organising an Indian Job Market for Economists meeting on 21-23 December 2022 in NCAER, New Delhi. For details, please see:
 * [An informational presentation](/assets/slides/ijme_2022_overview.pdf){:target="_blank"} 
-* Recording of information session conducted on October 28, 2022. [YouTube](#){:target="_blank"}. Martin Osborne's address to recruiters: [YouTube](https://youtu.be/30laNseG4YI). Reflections on the job market by Sugat Chaturvedi: [Slides](/assets/slides/job_market_reflections_sugat.pdf).
+* Recording of information session conducted on October 28, 2022. [YouTube](https://youtu.be/XwN0QINHalA){:target="_blank"}. Martin Osborne's address to recruiters: [YouTube](https://youtu.be/30laNseG4YI). Reflections on the job market by Sugat Chaturvedi: [Slides](/assets/slides/job_market_reflections_sugat.pdf).
 * [Answers to frequently asked questions](/ijme/faq/){:target="_blank"}  
 * [Job listings](/ijme/listings/){:target="_blank"}  
 
@@ -45,7 +45,7 @@ IJME will start in September and conclude in December. It will operate in four s
 
 ## Informational Webinar
 
-SERI and EJM organized an online information session to clarify any doubts or questions that either representatives of recruiting institutions or job market candidates have about IJME. The info session was held on Friday, October 28, 2022, from 8 PM IST to 10:10 PM IST. A brief outline of the program is as follows:
+SERI and EJM organized an online information session to clarify any doubts or questions that either representatives of recruiting institutions or job market candidates have about IJME. The info session was held on Friday, October 28, 2022, from 8 PM IST to 10:10 PM IST. A recording of the session is available on [YouTube](https://youtu.be/XwN0QINHalA){:target="_blank"}. A brief outline of the program was as follows:
 
 * 8-8:30 PM IST - [Presentation by Martin J. Osborne (University of Toronto), Director and Chief Information Officer of EJM - address to recruiters](https://youtu.be/30laNseG4YI){:target="_blank"}
 * 8:30-9 PM IST - Presentation by Joel Watson (UC San Diego), Director and Chief Executive Officer of EJM - address to job market candidates
