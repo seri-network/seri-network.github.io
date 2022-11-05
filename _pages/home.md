@@ -8,7 +8,7 @@ header:
   actions:
     - label: "<i class='fas fa-envelope-square'></i> Subscribe to the Mailing List"
       url: "/mailing-list/"
-    - label: "<i class='fas fa-briefcase'></i> Indian Job Market for Economists (IJME) Listings"
+    - label: "<i class='fas fa-briefcase'></i> Indian Job Market Listings"
       url: "/ijme/listings/"
 excerpt: >
   The Society for Economics Research in India (SERI) promotes research collaboration, intellectual exchange and critique among economists in India. 
