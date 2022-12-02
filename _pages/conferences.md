@@ -52,7 +52,7 @@ SERI's annual workshop is a platform for faculty in India to present and get fee
 
 The SERI-D workshop is geared towards advanced graduate students who are close to completing their PhD degree, again with the aim to provide detailed feedback that will enable students to submit their work for publication in peer-reviewed journals.  
 
-* Second workshop: December 9-11, 2022 (online). [Call for papers](/conferences/seri-d-2022-call-for-papers.pdf){:target="_blank"}. Submission deadline: October 1, 2022, 11:59 PM IST
+* [Second workshop](/conferences/seri-d-2022.pdf){:target="_blank"}: December 9-11, 2022 (online). [Zoom link](https://iitb-ac-in.zoom.us/meeting/register/tJMsdeGvqj0oGtE7UVqEsKTG_iegnRN2YUcE){:target="_blank"}
 * [First workshop](/conferences/seri-d-2021.pdf){:target="_blank"}: December 10-12, 2021 (online)
 
 ## Special Topics Workshops
