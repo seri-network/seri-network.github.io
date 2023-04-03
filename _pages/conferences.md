@@ -39,7 +39,7 @@ SERI's annual workshop is a platform for faculty in India to present and get fee
 
 {% include gallery caption="Annual workshop, 2015-2022" %}
 
-* Ninth workshop: July 8-9, 2023 at Gokhale Institute of Politics and Economics, Pune. [Call for Papers](/conferences/workshop-2023-call-for-papers.pdf)
+* Ninth workshop: July 8-9, 2023 at Gokhale Institute of Politics and Economics, Pune. [Call for Papers](/conferences/workshop-2023-call-for-papers.pdf). Note: Paper submission deadline has been extended from March 31 to April 10, 2023.
 * [Eighth workshop](/conferences/workshop-2022.pdf){:target="_blank"}: July 23-24, 2022 at Indian School of Business, Hyderabad  
 * [Seventh workshop](/conferences/workshop-2021.pdf){:target="_blank"}: July 17-19, 2021 at Institute of Economic Growth, Delhi and Centre for Development Economics, Delhi School of Economics (online)  
 * [Sixth workshop](/conferences/workshop-2020.pdf){:target="_blank"}: July 7-10, 2020 at Institute of Economic Growth, Delhi (online)  
