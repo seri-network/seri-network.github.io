@@ -14,15 +14,15 @@ title: Webinars
 ### Publishing in Applied Microeconomics
 
 <p align="center">
-  <img width="338" height="479" src="/assets/images/panel_eds_appliedmicro.png">
+  <img width="338" height="479" src="/assets/images/panel_eds_appliedmicro.jpeg">
 </p>
 
 Four prominent scholars, all editors in top field journals, will share their perspectives on publishing in applied microeconomics:
 
-1. [Manisha Shah](https://luskin.ucla.edu/person/manisha-shah) (Univerisity of California Los Angeles; Editor, Journal of Health Economics)
-1. [Prashant Bharadwaj](https://prbharadwaj.wordpress.com/) (University of California San Diego; Co-editor, Journal of Human Resources)
-1. [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/) (University of California Berkeley; Co-editor, Journal of Development Economics)
-1. [Sandip Sukhtankar](https://uva.theopenscholar.com/sandip-sukhtankar/) (University of Virginia; Co-editor, Journal of Public Economics)
+1. [Manisha Shah](https://luskin.ucla.edu/person/manisha-shah) (Univerisity of California Los Angeles; Editor, [Journal of Health Economics](https://www.sciencedirect.com/journal/journal-of-healt-economics))
+1. [Prashant Bharadwaj](https://prbharadwaj.wordpress.com/) (University of California San Diego; Co-editor, [Journal of Human Resources](https://jhr.uwpress.org/))
+1. [Aprajit Mahajan](https://are.berkeley.edu/~aprajit/) (University of California Berkeley; Co-editor, [Journal of Development Economics](https://www.sciencedirect.com/journal/journal-of-development-economics))
+1. [Sandip Sukhtankar](https://uva.theopenscholar.com/sandip-sukhtankar/) (University of Virginia; Co-editor, [Journal of Public Economics](https://www.sciencedirect.com/journal/journal-of-public-economics))
 
 Date and Time: 1 June 2023 at 7 PM IST 
 
