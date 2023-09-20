@@ -11,4 +11,6 @@ SERI's mailing list is hosted on [Google groups](https://groups.google.com/g/soc
 * After you sign in, the page will redirect back to the SERI google group and you will be presented with an option to "join group" 
 * Edit your subscription settings (if needed) and click on "join group" again on the next page.
 
-You can also view a set of [slides](/assets/slides/seri-google-group-sign-up-steps.pdf) that describe the above steps with screenshots. 
+You can also view a set of [slides](/assets/slides/seri-google-group-sign-up-steps.pdf) that describe the above steps with screenshots.  
+
+To unsubscribe, please follow the steps listed on [Google Groups Help](https://support.google.com/groups/answer/46608?hl=en).  
