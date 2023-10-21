@@ -6,8 +6,8 @@ header:
   overlay_color: "#5e616c"
   overlay_image: /assets/images/seri_banner.png
   actions:
-    - label: "<i class='fas fa-envelope-square'></i> Subscribe to the Mailing List"
-      url: "/mailing-list/"
+#    - label: "<i class='fas fa-envelope-square'></i> Subscribe to the Mailing List"
+#      url: "/mailing-list/"
 #    - label: "<i class='fas fa-bullhorn'></i> SERI-D 2022 Program"
 #      url: "/conferences/seri-d-2022.pdf"
 #    - label: "<i class='fas fa-bullhorn'></i> Annual Workshop 2023 Program"
@@ -16,6 +16,8 @@ header:
 #      url: "/conferences/workshop-2023-call-for-papers.pdf"
      - label: "<i class='fas fa-bullhorn'></i> Call for Papers - SERI-D Workshop"
        url: "/conferences/seri-d-2023-call-for-papers.pdf"
+     - label: "<i class='fas fa-briefcase'></i> IJME 2023 Workshop"
+       url: "/ijme/2023/#informational-webinar/"
 #    - label: "<i class='fas fa-briefcase'></i> Indian Job Market Listings"
 #      url: "/ijme/listings/"
 excerpt: >
