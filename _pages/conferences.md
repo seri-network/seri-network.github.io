@@ -57,6 +57,8 @@ The SERI-D workshop is geared towards advanced graduate students who are close t
 * [Second workshop](/conferences/seri-d-2022.pdf){:target="_blank"}: December 9-10, 2022 (online). 
 * [First workshop](/conferences/seri-d-2021.pdf){:target="_blank"}: December 10-12, 2021 (online).
 
+![Call for Papers](/assets/images/serid_2023_call_for_papers.png) 
+
 ## Special Topics Workshops
 
 SERI also organizes specialized workshops in narrow areas of interest, which are meant to complement its general-interest annual SERI and SERI-D workshops.   
