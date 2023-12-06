@@ -14,12 +14,12 @@ header:
 #      url: "/conferences/workshop-2023.pdf"
 #    - label: "<i class='fas fa-bullhorn'></i> Call for Papers - SERI Workshop"
 #      url: "/conferences/workshop-2023-call-for-papers.pdf"
-     - label: "<i class='fas fa-bullhorn'></i> Call for Papers - SERI-D Workshop"
-       url: "/conferences/seri-d-2023-call-for-papers.pdf"
-     - label: "<i class='fas fa-briefcase'></i> IJME 2023 Workshop"
-       url: "/ijme/2023/#informational-webinar/"
-#    - label: "<i class='fas fa-briefcase'></i> Indian Job Market Listings"
-#      url: "/ijme/listings/"
+     - label: "<i class='fas fa-bullhorn'></i> SERI-D 2023 Program"
+       url: "/conferences/seri-d-2023.pdf"
+#     - label: "<i class='fas fa-briefcase'></i> IJME 2023 Workshop"
+#       url: "/ijme/2023/#informational-webinar/"
+    - label: "<i class='fas fa-briefcase'></i> Indian Job Market Listings"
+      url: "/ijme/listings/"
 excerpt: >
   The Society for Economics Research in India (SERI) promotes research collaboration, intellectual exchange and critique among economists in India. 
 feature_row:
