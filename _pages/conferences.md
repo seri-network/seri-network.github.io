@@ -53,11 +53,12 @@ SERI's annual workshop is a platform for faculty in India to present and get fee
 
 The SERI-D workshop is geared towards advanced graduate students who are close to completing their PhD degree, again with the aim to provide detailed feedback that will enable students to submit their work for publication in peer-reviewed journals.  
 
-* Third workshop: December 8-9, 2023 (online). [Call for papers](/conferences/seri-d-2023-call-for-papers.pdf){:target="_blank"}. (Deadline for submission: Nov 8, 2023)
+* [Third workshop](/conferences/seri-d-2023.pdf){:target="_blank"}: December 8-9, 2023 (online). 
+* <!-- Third workshop: December 8-9, 2023 (online). [Call for papers](/conferences/seri-d-2023-call-for-papers.pdf){:target="_blank"}. (Deadline for submission: Nov 8, 2023) -->
 * [Second workshop](/conferences/seri-d-2022.pdf){:target="_blank"}: December 9-10, 2022 (online). 
 * [First workshop](/conferences/seri-d-2021.pdf){:target="_blank"}: December 10-12, 2021 (online).
 
-![Call for Papers](/assets/images/serid_2023_call_for_papers.png) 
+<!-- ![Call for Papers](/assets/images/serid_2023_call_for_papers.png) -->
 
 ## Special Topics Workshops
 
