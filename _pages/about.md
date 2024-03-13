@@ -8,7 +8,7 @@ SERI was set up in 2015 to create a community of scholars in India to promote re
 
 A group of about a dozen faculty drawn from different specializations and departments across the country volunteers to organize SERI’s activities. The core group collectively makes decisions, formulates policy and plans new initiatives. The current members of this group are:
 
-* [Aaditya Dar](https://aadityadar.com/), Indian School of Business  <a href="mailto:aaditya@seri.network"> <i class="fas fa-envelope"></i></a>  <a href="http://twitter.com/aadityadar" target="_blank"> <i class="fab fa-twitter"></i></a>  
+<!-- * [Aaditya Dar](https://aadityadar.com/), Indian School of Business  <a href="mailto:aaditya@seri.network"> <i class="fas fa-envelope"></i></a>  <a href="http://twitter.com/aadityadar" target="_blank"> <i class="fab fa-twitter"></i></a> -->
 * [Abhiroop Mukhopadhyay](https://www.isical.ac.in/abhiroop-mukhopadhyay), Indian Statistical Institute, Delhi  <a href="mailto:abhirooop@seri.network"> <i class="fas fa-envelope"></i></a>  <a href="http://twitter.com/AbhiroopMukho" target="_blank"> <i class="fab fa-twitter"></i></a>  
 * [Anirban Kar](http://econdse.org/anirban/), Delhi School of Economics  <!--<a href="mailto:anirban@seri.network"> <i class="fas fa-envelope"></i></a>  <a href="http://twitter.com/AnirbanKar" target="_blank"> <i class="fab fa-twitter"></i></a>  -->
 * [Farzana Afridi](https://www.isid.ac.in/~fafridi/), Indian Statistical Institute, Delhi  <a href="mailto:farzana@seri.network"> <i class="fas fa-envelope"></i></a>  <!--<a href="http://twitter.com/FarzanaAfridi" target="_blank"> <i class="fab fa-twitter"></i></a>  -->
