@@ -18,8 +18,8 @@ header:
        url: "/conferences/seri-d-2023.pdf"
 #     - label: "<i class='fas fa-briefcase'></i> IJME 2023 Workshop"
 #       url: "/ijme/2023/#informational-webinar/"
-    - label: "<i class='fas fa-briefcase'></i> Indian Job Market Listings"
-      url: "/ijme/listings/"
+     - label: "<i class='fas fa-briefcase'></i> Indian Job Market Listings"
+       url: "/ijme/listings/"
 excerpt: >
   The Society for Economics Research in India (SERI) promotes research collaboration, intellectual exchange and critique among economists in India. 
 feature_row:
