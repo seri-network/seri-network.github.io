@@ -39,7 +39,7 @@ SERI's annual workshop is a platform for faculty in India to present and get fee
 
 {% include gallery caption="Annual workshop, 2015-2022" %}
 
-* [Tenth workshop](#){:target="_blank"}: July 26-27, 2023 at Indian Institute of Management Calcutta. Call for papers: [for faculty and PhD economists](/conferences/workshop-2024-call-for-papers.pdf){:target="_blank"}; and [for graduate students](/conferences/workshop-2024-call-for-papers-lightning.pdf){:target="_blank"}. (Deadline for submission: Jun 10, 2024.)
+* [Tenth workshop](#){:target="_blank"}: July 26-27, 2024 at Indian Institute of Management Calcutta. Call for papers: [for faculty and PhD economists](/conferences/workshop-2024-call-for-papers.pdf){:target="_blank"}; and [for graduate students](/conferences/workshop-2024-call-for-papers-lightning.pdf){:target="_blank"}. (Deadline for submission: Jun 10, 2024.)
 * [Ninth workshop](/conferences/workshop-2023.pdf){:target="_blank"}: July 8-9, 2023 at Gokhale Institute of Politics and Economics, Pune  
 * [Eighth workshop](/conferences/workshop-2022.pdf){:target="_blank"}: July 23-24, 2022 at Indian School of Business, Hyderabad  
 * [Seventh workshop](/conferences/workshop-2021.pdf){:target="_blank"}: July 17-19, 2021 at Institute of Economic Growth, Delhi and Centre for Development Economics, Delhi School of Economics (online)  
