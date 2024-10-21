@@ -34,7 +34,7 @@ feature_row:
   - image_path: /assets/images/ijme_600x400.png
     alt: "ijme"
     title: "Job Market"
-    url: "/ijme/2023"
+    url: "/ijme/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      
   - image_path: /assets/images/papers_600x400.png
